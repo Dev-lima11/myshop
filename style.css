@@ -67,7 +67,7 @@ body {
 }
 .hero-text button:hover {
   transition: 4s;
-  background: brown; m
+  background: brown; 
   color: white;
 }
 .hero-img img {
